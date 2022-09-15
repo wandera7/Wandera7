@@ -36,7 +36,7 @@ I'm a Software-engineer with love for both frontend web development and backend 
 
 👨‍💻 **JavaScript** - You can never stop *learning* Javascript
 
-##Fun Facts
+## Fun Facts
 
 ⚡ The first language used to program "Hello World" was C
 
