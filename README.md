@@ -1,4 +1,4 @@
-![Julius Wanderra GitHub Banner](banner.png)
+![Julius Wanderra GitHub Banner](banner%20(1).png)
 
 
 
@@ -21,14 +21,6 @@ Here are some ideas to get you started:
 -->
 I'm a Software-engineer with love for both frontend web development and backend web development. I'm currently working with both React and Ruby on Rails to create full-stack web apps. I strive to be able to come up with my own start up and influence other young developers like me .
 
-**Fun Facts**
-
-⚡ The first language used to program "Hello World" was C
-
-⚡ I love animation . My favorite anime is **Naruto**
-
-⚡ If I'm not coding, you'll likely find me playing a video game. My favorite game is **Call Of Duty**
-
 ## 🔭 My Current Tech Stack
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,12 +32,22 @@ I'm a Software-engineer with love for both frontend web development and backend 
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🌱 Curremtly Learning
-**React Native** -To build mobile apps
+👨‍💻 **React Native** -To build mobile apps
 
-**JavaScript** - You can never stop *learning* Javascript
+👨‍💻 **JavaScript** - You can never stop *learning* Javascript
+
+**Fun Facts**
+
+⚡ The first language used to program "Hello World" was C
+
+⚡ I love animation . My favorite anime is **Naruto**
+
+⚡ If I'm not coding, you'll likely find me playing a video game. My favorite game is **Call Of Duty**
+
+
 
 ## 📫 Let's Get Social
-Follow me around the web!
+📄Follow me around the web!
 
 <a href="https://twitter.com/Ghostkejr">
    <img
