@@ -31,12 +31,12 @@ I'm a Software-engineer with love for both frontend web development and backend 
 ![SQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🌱 Curremtly Learning
+## 🌱 Currently Learning
 👨‍💻 **React Native** -To build mobile apps
 
 👨‍💻 **JavaScript** - You can never stop *learning* Javascript
 
-**Fun Facts**
+##Fun Facts
 
 ⚡ The first language used to program "Hello World" was C
 
