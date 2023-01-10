@@ -1,6 +1,3 @@
-![Julius Wanderra GitHub Banner](banner%20(1).png)
-
-
 
 
 # Hello, I'm Julius 👋
